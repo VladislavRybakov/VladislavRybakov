@@ -3,7 +3,8 @@
 ### I'm a HSE student majoring in Applied Mathematics
 
 I'm working on algorithms related to 
-embedding and extracting watermarks in PDF documents.
+embedding and extracting watermarks in PDF documents. 
+However, I am not sure yet that I will post my developments here for privacy reasons.
 
 #### I enjoy
 - :tennis: tennis
